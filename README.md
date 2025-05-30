@@ -40,6 +40,7 @@ model | Accuracy | ROC-AUC
 Logistic Regression | 0.7208 | 0.8248
 Random Forest | 0.8571 | 0.9446
 Support Vector Machine | 0.8377 | 0.8974
+
 The random forest classifier outperforms the other models in both accuracy and ROC-AUC metrics.
 Visualizations:
 Characteristic distribution: Glucose and BMI have a clear distribution in positive and negative cases.
